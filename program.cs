@@ -26,7 +26,6 @@ namespace LibraryManagement
             }
         }
 
-        // Класс для управления библиотекой
         public class Library
         {
             private List<Book> books = new List<Book>();
