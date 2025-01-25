@@ -6,7 +6,6 @@ namespace LibraryManagement
 {
     class Program
     {
-        // Класс книги
         public class Book
         {
             public string Title { get; set; }
